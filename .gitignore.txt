@@ -2,4 +2,4 @@
 *.doc
 *.docx
 
-Documento.doc
+CV.docx
